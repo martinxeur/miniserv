@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<service>
+    <menu>
+        <item id="1">Bienvenue sur le service Minitel!</item>
+        <item id="2">1. Consulter les nouvelles</item>
+        <item id="3">2. Contacter le support</item>
+        <item id="4">3. Quitter</item>
+    </menu>
+    <news>
+        <entry id="1">Nouvelles du jour: Le serveur Minitel fonctionne parfaitement.</entry>
+        <entry id="2">Deuxième nouvelle: Découvrez notre nouveau service en ligne.</entry>
+    </news>
+    <support>
+        <contact>Contactez-nous par email à support@example.com</contact>
+    </support>
+</service>
